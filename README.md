@@ -1,6 +1,6 @@
 # Github Local Star
 
-收藏❤️/使用😊/开发⭐
+收藏❤️/使用😊/开发⭐ 过时🥶
 
 ### C / C++
 
@@ -14,6 +14,16 @@
 
 * ⭐mimikatz[A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 
+* ⭐cosmopolitan[build-once run-anywhere c library](https://github.com/jart/cosmopolitan)
+
+* ⭐acwj[A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+
+* 😊simdjson[Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
+
+* 😊nnn[terminal file manager](https://github.com/jarun/nnn)
+
+* 😊NanaZip[The 7-Zip derivative intended for the modern Windows experience](https://github.com/M2Team/NanaZip)
+
 ### Java
 
 * ❤️Mindustry[A sandbox tower defense game](https://github.com/Anuken/Mindustry)
@@ -23,6 +33,8 @@
 * ⭐nushell[GitHub - nushell/nushell: A new type of shell](https://github.com/nushell/nushell)
 
 * 😊rustdesk[rustdesk/rustdesk: Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
+
+* ⭐polars[Fast multi-threaded DataFrame library](https://github.com/pola-rs/polars)
 
 ### Golang
 
@@ -34,9 +46,13 @@
 
 * ⭐godis[A Golang implemented Redis Server and Cluster](https://github.com/HDT3213/godis)
 
-* 😊bubbletea-tui[A powerful little TUI framework](https://github.com/charmbracelet/bubbletea)
+* 😊bubbletea[A powerful little TUI framework](https://github.com/charmbracelet/bubbletea)
 
 * ⭐chat[Instant messaging platform](https://github.com/tinode/chat)
+
+* ⭐pretty[Pretty printing for Go values](https://github.com/kr/pretty)
+
+* ⭐croc[send things from one computer to another](https://github.com/schollz/croc)
 
 ### Javascript & Typescript
 
@@ -50,9 +66,15 @@
 
 * ⭐popular-message[轻量级的信息反馈组件](https://github.com/nihaojob/popular-message)
 
+* ⭐code-nav[专业的编程导航，帮你找到优质的编程学习资源！](https://github.com/liyupi/code-nav)
+
+* ⭐ebs-design[A React-based UI toolkit](https://github.com/ebs-integrator/ebs-design)
+
+* 😊towxml[微信小程序HTML、Markdown渲染库](https://github.com/sbfkcel/towxml)
+
 ### C#
 
-* 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类 ](https://github.com/ldqk/Masuit.Tools)
+* 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
 
 ### Python
 
@@ -62,6 +84,14 @@
 
 * ⭐bigdata_analyse[TurboWay/bigdata_analyse: 大数据分析项目 ](https://github.com/TurboWay/bigdata_analyse)
 
+* 🥶⭐printPlay[Python print to form Chinese characters](https://github.com/pengfexue2/printPlay)
+
+* ⭐color-trace[将位图转为彩色矢量 svg 图片](https://github.com/HaujetZhao/color-trace)
+
+* 😊q[Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
+
+* 😊python-pinyin[汉字转拼音(pypinyin)](https://github.com/mozillazg/python-pinyin)
+
 ### PHP
 
 * ⭐onenav[使用PHP开发的简约导航/书签管理系统。 ](https://github.com/helloxz/onenav)
@@ -70,13 +100,13 @@
 
 ### IOS & Android
 
-* ⭐EteSync & Etebase-端到端加密[EteSync & Etebase ](https://github.com/etesync)
+* ⭐EteSync & Etebase[EteSync & Etebase ](https://github.com/etesync)
 
 * ⭐FengYunWeather[Android平台开源天气 App](https://github.com/wdsqjq/FengYunWeather)
 
 ### macOS
 
-* 😊yabai-平铺桌面[A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
+* 😊yabai[A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 
 ### Windows
 
@@ -91,6 +121,10 @@
 * 😊dishes[taskbar launch tool](https://github.com/Monoxide/dishes)
 
 * 😊MicrosoftHostsPicker[A simple hosts picker for Microsoft Services](https://github.com/ZeroSimple/MicrosoftHostsPicker)
+
+* 🥶😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
+
+* ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
 
 ### Linux
 
@@ -111,3 +145,7 @@
 * ❤️modern-unix[modern alternatives to common unix commands. ](https://github.com/ibraheemdev/modern-unix)
 
 * ❤️WorkingTime[WorkerLivesMatter/WorkingTime ](https://github.com/WorkerLivesMatter/WorkingTime)
+
+* ❤️Git-Cheat-Sheet[git and git flow cheat sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+
+* ❤️AlgoXY[Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
