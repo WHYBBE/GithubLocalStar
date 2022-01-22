@@ -50,9 +50,17 @@
 
 * ❤️modern-cpp-features[cheatsheet of modern C++ and library features.](https://github.com/AnthonyCalandra/modern-cpp-features)
 
-* ⭐taskflow[General-purpose Parallel and Heterogeneous Task](https://github.com/taskflow/taskflow)
+* taskflow[Parallel and Heterogeneous Task Programming System](https://github.com/taskflow/taskflow)
 
-**Network**
+* 😊btop[A monitor of resources](https://github.com/aristocratos/btop)
+
+* 👻|⭐MinesweeperAI[MinesweeperAI](https://github.com/HaloOrangeWang/MinesweeperAI/)
+
+* 👻|⭐minilisp[A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
+
+* ⭐caesium-image-compressor[cross-platform image compression software](https://github.com/Lymphatus/caesium-image-compressor)
+
+**Network & Web**
 
 * ⭐muduo|C++11[Event-driven network library for multi-threaded Linux](https://github.com/chenshuo/muduo)
 
@@ -61,6 +69,10 @@
 * 😊darkhttpd[a web server](https://github.com/emikulic/darkhttpd)
 
 * ⭐asio[Boost.org asio module](https://github.com/boostorg/asio)
+
+* ⭐httpdownloader[uses input/output completion ports (IOCP).](https://github.com/erickutcher/httpdownloader)
+
+* ⭐wfrest[C++ Web Framework REST API](https://github.com/wfrest/wfrest)
 
 **Library**
 
@@ -83,6 +95,8 @@
 * ⭐gobang[A cross-platform TUI database management tool](https://github.com/TaKO8Ki/gobang)
 
 * ⭐rip[A safe and ergonomic alternative to rm](https://github.com/nivekuil/rip)
+
+* ⭐dog[A command-line DNS client.](https://github.com/ogham/dog)
 
 ### Golang
 
@@ -114,7 +128,7 @@
 
 * 😊gookit[Terminal color rendering library](https://github.com/gookit/color)
 
-### Javascript & Typescript
+### Javascript & Typescript & Web
 
 * ⭐message-box[a Web component implemented on Lit-Element library.](https://github.com/kingcc/message-box)
 
@@ -133,6 +147,18 @@
 * 😊towxml[微信小程序HTML、Markdown渲染库](https://github.com/sbfkcel/towxml)
 
 * ⭐antd-admin[front-end solution built upon Ant Design and UmiJS](https://github.com/zuiidea/antd-admin)
+
+* ⭐css-doodle[🎨 A web component for drawing patterns with CSS.](https://github.com/css-doodle/css-doodle)
+
+* 😊vue-color-avatar[An online avatar generator](https://github.com/Codennnn/vue-color-avatar)
+
+* 😊md-block[A custom element for rendering stylable Markdown](https://github.com/leaverou/md-block)
+
+* ⭐MooTool[A handy tool set for developers.](https://github.com/rememberber/MooTool)
+
+* ⭐pico[Minimal CSS Framework for semantic HTML](https://github.com/picocss/pico)
+
+* 😊zx[A tool for writing better scripts](https://github.com/google/zx)
 
 ### C#
 
@@ -193,6 +219,10 @@
 * ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
 
 * 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
+
+* 😊NETworkManager[tool for managing networks](https://github.com/BornToBeRoot/NETworkManager)
+
+* ⭐Easy-Cat-Timer[This is a very simple cat timer](https://github.com/xujiangjiang/Easy-Cat-Timer)
 
 ### Linux
 
