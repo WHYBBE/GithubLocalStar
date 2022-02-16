@@ -72,6 +72,8 @@
 
 * 🥶|👻|⭐quinesnake[A quine that plays snake over its own source!](https://github.com/taylorconor/quinesnake)
 
+* ⭐B23Downloader[下载B站视频、直播、漫画](https://github.com/vooidzero/B23Downloader)
+
 **Network & Web**
 
 * ⭐muduo|C++11[Event-driven network library for multi-threaded Linux](https://github.com/chenshuo/muduo)
@@ -95,10 +97,6 @@
 * ⭐boost[Super-project for modularized Boost](https://github.com/boostorg/boost)
 
 * ⭐STL[MSVC's implementation of the C++ Standard Library.](https://github.com/microsoft/STL)
-
-### Java
-
-* ❤️Mindustry[A sandbox tower defense game](https://github.com/Anuken/Mindustry)
 
 ### Rust
 
@@ -202,6 +200,8 @@
 
 * ⭐OS.js[JavaScript Web Desktop Platform](https://github.com/os-js/OS.js)
 
+* ⭐js-sdsl[A javascript standard data structure library](https://github.com/ZLY201/js-sdsl)
+
 **Generator**
 
 * 😊vue-color-avatar[An online avatar generator](https://github.com/Codennnn/vue-color-avatar)
@@ -209,12 +209,6 @@
 * ⭐logoly[A Pornhub Flavour Logo Generator](https://github.com/bestony/logoly)
 
 * 😊sorry[在线制作`sorry 为所欲为`的gif](https://github.com/xtyxtyx/sorry)
-
-### C#
-
-* 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
-
-* 😊awesome-dotnet-core[NET Core库、工具、框架和软件的中文收录大全](https://github.com/jasonhua95/awesome-dotnet-core)
 
 ### Python
 
@@ -250,9 +244,23 @@
 
 * 🥶|⭐python-small-examples[Python 实用小例子](https://github.com/jackzhenguo/python-small-examples)
 
-### PHP
+* 😊MockingBird[AI拟声](https://github.com/babysor/MockingBird)
+
+### Other
+
+**Java**
+
+* ❤️Mindustry[A sandbox tower defense game](https://github.com/Anuken/Mindustry)
+
+**PHP**
 
 * ⭐onenav[使用PHP开发的简约导航/书签管理系统。 ](https://github.com/helloxz/onenav)
+
+**C#**
+
+* 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
+
+* 😊awesome-dotnet-core[NET Core库、工具、框架和软件的中文收录大全](https://github.com/jasonhua95/awesome-dotnet-core)
 
 ---
 
@@ -272,35 +280,17 @@
 
 ### Windows
 
+**XAML**
+
 * ⭐LightDictionary[UWP Application](https://github.com/cyanray/LightDictionary)
 
 * ⭐panuonUI.Silver[A beautiful wpf ui library](https://github.com/Mochengvia/PanuonUI.Silver)
 
-* ⭐PasteEx[Paste As File 把剪贴板的内容直接粘贴为文件 ](https://github.com/huiyadanli/PasteEx)
-
-* ⭐FlipIt[Flip Clock screensaver ](https://github.com/phaselden/FlipIt)
-
-* 😊dishes[taskbar launch tool](https://github.com/Monoxide/dishes)
-
-* 😊MicrosoftHostsPicker[A simple hosts picker for Microsoft Services](https://github.com/ZeroSimple/MicrosoftHostsPicker)
-
-* 🥶|😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
-
-* ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
-
-* 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
-
-* 😊NETworkManager[tool for managing networks](https://github.com/BornToBeRoot/NETworkManager)
+* ⭐Notepads[text editor with a minimalist design.](https://github.com/JasonStein/Notepads)
 
 * ⭐Easy-Cat-Timer[This is a very simple cat timer](https://github.com/xujiangjiang/Easy-Cat-Timer)
 
-* 🥶|👻|⭐ClickShow[鼠标点击特效](https://github.com/cuiliang/ClickShow)
-
-* ⭐Notepads[text editor with a minimalist design.](https://github.com/JasonStein/Notepads)
-
-* 🥶|👻|⭐ShutdownTimerClassic[shutdown computer](https://github.com/lukaslangrock/ShutdownTimerClassic)
-
-* 😊|👍gsudo[A Sudo for Windows](https://github.com/gerardog/gsudo)
+* 😊NETworkManager[tool for managing networks](https://github.com/BornToBeRoot/NETworkManager)
 
 * ⭐microsoft-ui-xaml[Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml)
 
@@ -315,6 +305,36 @@
 * 😊ModernWpf[Modern styles and controls for your WPF applications](https://github.com/Kinnara/ModernWpf)
 
 * 🥶|⭐Work-Timer[正向计时器，商店链接](https://github.com/Richasy/Work-Timer)
+
+* 😊AduSkin[A Beautiful WPF Control UI](https://github.com/aduskin/AduSkin)
+
+* 😊LiveCharts2[Simple, flexible, interactive & powerful charts, maps and gauges](https://github.com/beto-rodriguez/LiveCharts2)
+
+* 🥶|👻|⭐ToastFish[Uahh/ToastFish](https://github.com/Uahh/ToastFish)
+
+**Winform**
+
+* 🥶|😊dishes[taskbar launch tool](https://github.com/Monoxide/dishes)
+
+* ⭐PasteEx[Paste As File 把剪贴板的内容直接粘贴为文件](https://github.com/huiyadanli/PasteEx)
+
+* 👍|⭐FlipIt[Flip Clock screensaver](https://github.com/phaselden/FlipIt)
+
+* ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
+
+* 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
+
+* 🥶|👻|⭐ClickShow[鼠标点击特效](https://github.com/cuiliang/ClickShow)
+
+* 🥶|👻|⭐hutdownTimerClassic[shutdown computer](https://github.com/lukaslangrock/ShutdownTimerClassic)
+
+**Other**
+
+* 😊MicrosoftHostsPicker[A simple hosts picker for Microsoft Services](https://github.com/ZeroSimple/MicrosoftHostsPicker)
+
+* 🥶|😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
+
+* 👍|😊gsudo[A Sudo for Windows](https://github.com/gerardog/gsudo)
 
 ### Linux
 
@@ -351,8 +371,6 @@
 * ❤️HelloGitHub[Share open source projects on GitHub.](https://github.com/521xueweihan/HelloGitHub)
 
 * 🥶|learn-regex[Learn regex the easy way](https://github.com/ziishaned/learn-regex)
-
-* 🥶|⭐algo[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 
 * ❤️A-to-Z-Resources-for-Students[Curated list of resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
