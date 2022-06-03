@@ -1,6 +1,10 @@
 # Github Local Star
 
-收藏❤️/使用😊/学习⭐ 过时🥶 简单👻 特别喜爱👍
+收藏❤️/使用😊/学习⭐   
+
+* 🥶过时（六个月以上不更新）
+* 👻简单
+* 👍特别喜爱
 
 ### C / C++
 
@@ -15,13 +19,11 @@
 * 😊NanaZip[The 7-Zip derivative](https://github.com/M2Team/NanaZip)
 * ⭐LCUI[C library for building UI with C, XML and CSS.](https://github.com/lc-soft/LCUI)
 * 😊spdlog[Fast C++ logging library.](https://github.com/gabime/spdlog)
-* ⭐leveldb[a fast key-value storage library](https://github.com/google/leveldb)
 * ⭐chromium[Chromium](https://github.com/chromium/chromium)
 * 👻|⭐xpack[convert json/xml/bson to c++ struct](https://github.com/xyz347/xpack)
 * ⭐discount[C impl of John Gruber's Markdown markup language](https://github.com/Orc/discount)
 * 😊wkhtmltopdf[Convert HTML to PDF using Webkit (QtWebKit)](https://github.com/wkhtmltopdf/wkhtmltopdf)
 * ⭐notepanda[A simple cross-platform notepad.](https://github.com/ChungZH/notepanda)
-* ⭐fast-cpp-csv-parser[fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser)
 * 👻|⭐UNO[Card Game UNO!](https://github.com/Gusabary/UNO)
 * 😊indicators[Activity Indicators for Modern C++](https://github.com/p-ranav/indicators)
 * 👻|⭐ThreadPool|C++11[A simple Thread Pool implementation](https://github.com/progschj/ThreadPool)
@@ -42,8 +44,11 @@
 * ⭐chibicc[A small C compiler](https://github.com/rui314/chibicc)
 * ⭐daytripper[Hide-My-Windows Laser Tripwire](https://github.com/dekuNukem/daytripper)
 * 😊spec[The canonical spec for ulid](https://github.com/ulid/spec)
+* ❤️safe-rules[详细的C/C++编程规范指南](https://github.com/Qihoo360/safe-rules)
+* 😊Catch2[A modern, C++-native, test framework for unit-tests](https://github.com/catchorg/Catch2)
+* ⭐dragonfly[A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 
-**Network & Web**
+**Network & Server**
 
 * ⭐muduo|C++11[Event-driven network library for multi-threaded Linux](https://github.com/chenshuo/muduo)
 * ⭐CppNet|C++11[Cross platform network library](https://github.com/caozhiyi/CppNet)
@@ -53,11 +58,14 @@
 * ⭐wfrest[C++ Web Framework REST API](https://github.com/wfrest/wfrest)
 * 🥶|👻|⭐Tinyhttpd[tinyhttpd.sourceforge.net](https://github.com/EZLippi/Tinyhttpd)
 
-**Library**
+**Tool Library**
 
-* ⭐folly[C++ library](https://github.com/facebook/folly)
+* ⭐leveldb[a fast key-value storage library](https://github.com/google/leveldb)
+* 🥶|⭐fast-cpp-csv-parser[fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser)
+* ⭐folly[Facebook C++ library](https://github.com/facebook/folly)
 * ⭐boost[Super-project for modularized Boost](https://github.com/boostorg/boost)
 * ⭐STL[MSVC's implementation of the C++ Standard Library.](https://github.com/microsoft/STL)
+* ⭐uthash[C macros for hash tables and more](https://github.com/troydhanson/uthash)
 
 ### Rust
 
@@ -67,6 +75,8 @@
 * ⭐gobang[A cross-platform TUI database management tool](https://github.com/TaKO8Ki/gobang)
 * ⭐rip[A safe and ergonomic alternative to rm](https://github.com/nivekuil/rip)
 * ⭐dog[A command-line DNS client.](https://github.com/ogham/dog)
+* ⭐coreutils[=Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
+* ⭐arpchat[what if you wanted to text your friends using only ARP?](https://github.com/kognise/arpchat)
 
 ### Golang
 
@@ -83,6 +93,8 @@
 * 😊dsq[Commandline tool for running SQL queries against JSON...](https://github.com/multiprocessio/dsq)
 * 😊octosql[a query tool process data by using SQL.](https://github.com/cube2222/octosql)
 * ⭐gotop[A terminal based graphical activity monitor inspired by gtop and vtop](https://github.com/xxxserxxx/gotop)
+* ⭐paopao-ce[A artistic "twitter like" community built on gin+zinc+vue+ts](https://github.com/rocboss/paopao-ce)
+* ⭐iam[企业级的 Go 语言实战项目：认证和授权系统](https://github.com/marmotedu/iam)
 
 **IM**
 
@@ -101,10 +113,8 @@
 * ⭐prisma[Next-generation ORM for Node.js & TypeScript](https://github.com/prisma/prisma)
 * 😊rubick[Electron based open source toolbox](https://github.com/rubickCenter/rubick)
 * ⭐code-nav[专业的编程导航，帮你找到优质的编程学习资源！](https://github.com/liyupi/code-nav)
-* ⭐ebs-design[A React-based UI toolkit](https://github.com/ebs-integrator/ebs-design)
 * ⭐antd-admin[front-end solution built upon Ant Design and UmiJS](https://github.com/zuiidea/antd-admin)
 * ⭐MooTool[A handy tool set for developers.](https://github.com/rememberber/MooTool)
-* ⭐pico[Minimal CSS Framework for semantic HTML](https://github.com/picocss/pico)
 * 😊zx[A tool for writing better scripts](https://github.com/google/zx)
 * 😊code-server[VS Code in the browser](https://github.com/coder/code-server)
 * 😊algorithm-visualizer[Visualizes Algorithms](https://github.com/algorithm-visualizer/algorithm-visualizer)
@@ -117,20 +127,28 @@
 * 🥶|❤️purecss-pink[HTML/CSS drawing of gel studio lighting.](https://github.com/cyanharlow/purecss-pink)
 * ⭐OS.js[JavaScript Web Desktop Platform](https://github.com/os-js/OS.js)
 * ⭐js-sdsl[A javascript standard data structure library](https://github.com/ZLY201/js-sdsl)
+* ⭐mini-vue[实现最简 vue3 模型](https://github.com/cuixiaorui/mini-vue)
 * 😊type-challenges[Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
 * 😊cypress[Fast, easy and reliable testing for anything that runs in a browser. ](https://github.com/cypress-io/cypress)
+* 😊pkg[Package your Node.js project into an executable](https://github.com/vercel/pkg)
+* 😊cnchar[Chinese character util](https://github.com/theajack/cnchar)
+* 😊payload[Headless CMS and Application Framework](https://github.com/payloadcms/payload)
+* 😊Geeker-Admin[一套后台管理框架](https://github.com/HalseySpicy/Geeker-Admin)
+* 😊xterm.js[A terminal for the web](https://github.com/xtermjs/xterm.js)
 
-**UI**
+**Basic UI Lib**
 
-* ⭐message-box[a Web component implemented on Lit-Element library.](https://github.com/kingcc/message-box)
-* ⭐popular-message[轻量级的信息反馈组件](https://github.com/nihaojob/popular-message)
+* 🥶|⭐message-box[a Web component implemented on Lit-Element library.](https://github.com/kingcc/message-box)
+* 🥶|⭐popular-message[轻量级的信息反馈组件](https://github.com/nihaojob/popular-message)
 * 😊towxml[微信小程序HTML、Markdown渲染库](https://github.com/sbfkcel/towxml)
-* 😊md-block[A custom element for rendering stylable Markdown](https://github.com/leaverou/md-block)
+* 🥶|😊md-block[A custom element for rendering stylable Markdown](https://github.com/leaverou/md-block)
+* 🥶|⭐ebs-design[A React-based UI toolkit](https://github.com/ebs-integrator/ebs-design)
+* ⭐pico[Minimal CSS Framework for semantic HTML](https://github.com/picocss/pico)
 * ⭐css-doodle[🎨 A web component for drawing patterns with CSS.](https://github.com/css-doodle/css-doodle)
 * ⭐layui[采用自身模块规范编写的前端 UI 框架](https://github.com/sentsin/layui)
 * ⭐glide[JavaScript ES6 slider and carousel.](https://github.com/glidejs/glide)
 * 😊Chart.js[Simple HTML5 Charts using the <canvas> tag](https://github.com/chartjs/Chart.js)
-* ⭐mini-vue[实现最简 vue3 模型](https://github.com/cuixiaorui/mini-vue)
+* 😊bytemd[Hackable Markdown editor and viewer](https://github.com/bytedance/bytemd)
 
 **Generator**
 
@@ -159,6 +177,8 @@
 * 😊MockingBird[AI拟声](https://github.com/babysor/MockingBird)
 * 😊rich[Rich is a Python library for rich text in the terminal.](https://github.com/Textualize/rich)
 * 😊system-design-primer[Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
+* 😊gprof2dot[Converts profiling output to a dot graph](https://github.com/jrfonseca/gprof2dot)
+* 😊Handright[for simulating Chinese handwriting](https://github.com/Gsllchb/Handright)
 
 ### Other
 
@@ -183,11 +203,14 @@
 * ⭐EteSync & Etebase[EteSync & Etebase ](https://github.com/etesync)
 * ⭐FengYunWeather[Android平台开源天气 App](https://github.com/wdsqjq/FengYunWeather)
 * ⭐XPopup[Powerful and Beautiful Popup for Android](https://github.com/li-xiaojun/XPopup)
+* 😊getwidget[UI library with 1000+ Widgets to build flutter app](https://github.com/ionicfirebaseapp/getwidget)
+* 😊PermissionX[makes handling runtime permissions extremely easy.](https://github.com/guolindev/PermissionX)
 
 ### macOS
 
 * 😊yabai[A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * 😊one-key-hidpi[Enable macOS HiDPI and have a native setting.](https://github.com/mlch911/one-key-hidpi)
+* 😊keycastr[keystroke visualizer](https://github.com/keycastr/keycastr)
 
 ### Windows
 
@@ -209,6 +232,7 @@
 * 😊LiveCharts2[Simple, flexible, interactive & powerful charts, maps and gauges](https://github.com/beto-rodriguez/LiveCharts2)
 * 🥶|👻|⭐ToastFish[Uahh/ToastFish](https://github.com/Uahh/ToastFish)
 * 🥶|👻|⭐ClickShow[鼠标点击特效](https://github.com/cuiliang/ClickShow)
+* ⭐DevToys[A Swiss Army knife for developers.](https://github.com/veler/DevToys)
 
 **Winform**
 
@@ -229,6 +253,7 @@
 
 * 😊x11docker[Run GUI applications in docker and podman containers.](https://github.com/mviereck/x11docker)
 * 😊waydroid[uses a container-based approach to boot a full Android](https://github.com/waydroid/waydroid)
+* ❤️flash-linux0.11-talk[像小说一样品读 Linux 0.11 核心代码](https://github.com/sunym1993/flash-linux0.11-talk)
 
 ---
 
@@ -238,6 +263,7 @@
 * 😊ghz[Simple gRPC benchmarking and load testing tool ](https://github.com/bojand/ghz)
 * 😊public[A collective list of free APIs ](https://github.com/public-apis/public-apis)
 * 😊nerd-fonts[Iconic font aggregator, collection](https://github.com/ryanoasis/nerd-fonts)
+* 😊code996[统计 Git 项目的 commit 时间分布](https://github.com/hellodigua/code996)
 
 ### Other
 
