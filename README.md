@@ -99,6 +99,7 @@
 * ⭐iam[企业级的 Go 语言实战项目：认证和授权系统](https://github.com/marmotedu/iam)
 * ⭐dolt[It's Git for Data](https://github.com/dolthub/dolt)
 * ⭐[Vector database for scalable similarity search and AI applications](https://github.com/milvus-io/milvus)
+* 😊mkcert[to make locally trusted development certificates](https://github.com/FiloSottile/mkcert)
 
 #### IM
 
@@ -141,6 +142,10 @@
 * 😊xterm.js[A terminal for the web](https://github.com/xtermjs/xterm.js)
 * 😊siyuan[a local-first personal knowledge management system](https://github.com/siyuan-note/siyuan/)
 * ⭐clipboard.js[Modern copy to clipboard](https://github.com/zenorocha/clipboard.js/)
+* 😊repo-visualizer[creates an SVG diagram of your repo](https://github.com/githubocto/repo-visualizer)
+* ⭐maths[加减法数学题生成器](https://github.com/NMTuan/maths)
+* ⭐batnoter[markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
+* 😊GithubCity[Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 
 #### Basic UI Lib
 
@@ -155,6 +160,8 @@
 * ⭐glide[JavaScript ES6 slider and carousel.](https://github.com/glidejs/glide)
 * 😊Chart.js[Simple HTML5 Charts using the <canvas> tag](https://github.com/chartjs/Chart.js)
 * 😊bytemd[Hackable Markdown editor and viewer](https://github.com/bytedance/bytemd)
+* 😊mind-elixir-core[a framework agnostic mind map core](https://github.com/ssshooter/mind-elixir-core)
+* 😊storybook[The UI component explorer](https://github.com/storybookjs/storybook/)
 
 #### Generator
 
@@ -219,6 +226,7 @@
 * 😊one-key-hidpi[Enable macOS HiDPI and have a native setting.](https://github.com/mlch911/one-key-hidpi)
 * 😊keycastr[keystroke visualizer](https://github.com/keycastr/keycastr)
 * 😊Amethyst[Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)
+* ⭐MiaoYan[Lightweight Markdown app](https://github.com/tw93/MiaoYan)
 
 ### Windows
 
@@ -291,3 +299,4 @@
 * ❤️hacker-laws[Laws, Theories, Principles and Patterns](https://github.com/dwmkerr/hacker-laws)
 * ❤️octodex[GitHub's Octocats.](https://github.com/dhilipsiva/octodex)
 * 😊beautify-github-profile[a more beautiful and attractive github profile](https://github.com/rzashakeri/beautify-github-profile)
+* ❤️Bash-Oneline[A collection of handy Bash One-Liners and terminal tricks](https://github.com/onceupon/Bash-Oneliner)
