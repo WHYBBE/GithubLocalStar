@@ -100,6 +100,10 @@
 * ⭐dolt[It's Git for Data](https://github.com/dolthub/dolt)
 * ⭐[Vector database for scalable similarity search and AI applications](https://github.com/milvus-io/milvus)
 * 😊mkcert[to make locally trusted development certificates](https://github.com/FiloSottile/mkcert)
+* ⭐wild-workouts-go-ddd-example[Go DDD example application|CQRS](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+* 😊gitleaks[Protect and discover secrets using Gitleaks](https://github.com/zricethezav/gitleaks)
+* ⭐go-multiplatform-docker[GitHub Actions|multiplatform, release, DockerHub](https://github.com/LeslieLeung/go-multiplatform-docker)
+* ⭐gf[modular, powerful, high-performance and enterprise-class](https://github.com/gogf/gf)
 
 #### IM
 
@@ -111,6 +115,7 @@
 
 * 😊bubbletea[A powerful little TUI framework](https://github.com/charmbracelet/bubbletea)
 * 😊gookit[Terminal color rendering library](https://github.com/gookit/color)
+* ⭐gum[A tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
 
 ### Javascript & Typescript & Web
 
@@ -146,6 +151,8 @@
 * ⭐maths[加减法数学题生成器](https://github.com/NMTuan/maths)
 * ⭐batnoter[markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
 * 😊GithubCity[Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
+* ⭐hat.sh[Encrypt and Decrypt files securely in your browser](https://github.com/sh-dv/hat.sh)
+* 😊docusaurus[Easy to maintain open source documentation websites](https://github.com/facebook/Docusaurus)
 
 #### Basic UI Lib
 
@@ -193,6 +200,7 @@
 * 😊system-design-primer[Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
 * 😊gprof2dot[Converts profiling output to a dot graph](https://github.com/jrfonseca/gprof2dot)
 * 😊Handright[for simulating Chinese handwriting](https://github.com/Gsllchb/Handright)
+* ⭐LiveTerm[Build terminal styled websites in minutes!](https://github.com/Cveinnt/LiveTerm)
 
 ### Other Language
 
@@ -200,6 +208,9 @@
 
 * ❤️Mindustry[A sandbox tower defense game](https://github.com/Anuken/Mindustry)
 * 😊supertokens-core[Open source alternative to Auth0](https://github.com/supertokens/supertokens-core)
+* ⭐oshi[Native Operating System and Hardware Information](https://github.com/oshi/oshi)
+* ⭐MooInfo[Visual implementation of OSHI](https://github.com/rememberber/MooInfo)
+* ⭐blog[基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
 
 #### PHP
 
@@ -219,6 +230,7 @@
 * ⭐XPopup[Powerful and Beautiful Popup for Android](https://github.com/li-xiaojun/XPopup)
 * 😊getwidget[UI library with 1000+ Widgets to build flutter app](https://github.com/ionicfirebaseapp/getwidget)
 * 😊PermissionX[makes handling runtime permissions extremely easy.](https://github.com/guolindev/PermissionX)
+* ⭐graphic[A grammar of data visualization and Flutter charting library](https://github.com/entronad/graphic)
 
 ### macOS
 
@@ -227,6 +239,7 @@
 * 😊keycastr[keystroke visualizer](https://github.com/keycastr/keycastr)
 * 😊Amethyst[Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)
 * ⭐MiaoYan[Lightweight Markdown app](https://github.com/tw93/MiaoYan)
+* 😊SourceCodeSyntaxHighlight[Quick Look extension for highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 ### Windows
 
@@ -264,6 +277,7 @@
 * 😊MicrosoftHostsPicker[A simple hosts picker for Microsoft Services](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 * 🥶|😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
 * 👍|😊gsudo[A Sudo for Windows](https://github.com/gerardog/gsudo)
+* ⭐TrafficMonitor[显示当前网速、CPU及内存利用率的桌面悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor)
 
 ### Linux
 
