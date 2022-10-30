@@ -40,6 +40,9 @@
 * ❤️safe-rules[详细的C/C++编程规范指南](https://github.com/Qihoo360/safe-rules)
 * 😊Catch2[A modern, C++-native, test framework for unit-tests](https://github.com/catchorg/Catch2)
 * ⭐dragonfly[A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
+* 😊checkmake[experimental linter/analyzer for Makefiles](https://github.com/mrtazz/checkmake)
+* 😊Criterion[A cross-platform C and C++ unit testing framework](https://github.com/Snaipe/Criterion)
+* ⭐masscan[TCP port scanner, spews SYN packets asynchronously](https://github.com/robertdavidgraham/masscan)
 
 #### C/C++ GUI Software
 
@@ -153,6 +156,9 @@
 * 😊GithubCity[Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 * ⭐hat.sh[Encrypt and Decrypt files securely in your browser](https://github.com/sh-dv/hat.sh)
 * 😊docusaurus[Easy to maintain open source documentation websites](https://github.com/facebook/Docusaurus)
+* ⭐uptime-kuma[A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+* ⭐memos[self-hosted knowledge base that works with a SQLite db file](https://github.com/usememos/memos)
+* ⭐hoppscotch[Open source API development ecosystem](https://github.com/hoppscotch/hoppscotch)
 
 #### Basic UI Lib
 
@@ -201,6 +207,9 @@
 * 😊gprof2dot[Converts profiling output to a dot graph](https://github.com/jrfonseca/gprof2dot)
 * 😊Handright[for simulating Chinese handwriting](https://github.com/Gsllchb/Handright)
 * ⭐LiveTerm[Build terminal styled websites in minutes!](https://github.com/Cveinnt/LiveTerm)
+* 😊memory_profiler[Monitor Memory usage of Python code](https://github.com/pythonprofilers/memory_profiler)
+* 😊textual[Textual is a TUI framework for Python](https://github.com/Textualize/textual)
+* 😊code2flow[Pretty good call graphs for dynamic languages](https://github.com/scottrogowski/code2flow)
 
 ### Other Language
 
@@ -220,6 +229,7 @@
 
 * 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
 * 😊awesome-dotnet-core[NET Core库、工具、框架和软件的中文收录大全](https://github.com/jasonhua95/awesome-dotnet-core)
+* 😊Avalonia[A cross-platform UI framework for .NET](https://github.com/AvaloniaUI/Avalonia)
 
 ---
 
