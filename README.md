@@ -43,6 +43,7 @@
 * 😊checkmake[experimental linter/analyzer for Makefiles](https://github.com/mrtazz/checkmake)
 * 😊Criterion[A cross-platform C and C++ unit testing framework](https://github.com/Snaipe/Criterion)
 * ⭐masscan[TCP port scanner, spews SYN packets asynchronously](https://github.com/robertdavidgraham/masscan)
+* ⭐btop[A monitor of resources](https://github.com/aristocratos/btop)
 
 #### C/C++ GUI Software
 
@@ -84,6 +85,7 @@
 * ⭐dog[A command-line DNS client.](https://github.com/ogham/dog)
 * ⭐coreutils[=Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * ⭐arpchat[what if you wanted to text your friends using only ARP?](https://github.com/kognise/arpchat)
+* 😊just[Just a command runner](https://github.com/casey/just)
 
 ### Golang
 
@@ -107,6 +109,9 @@
 * 😊gitleaks[Protect and discover secrets using Gitleaks](https://github.com/zricethezav/gitleaks)
 * ⭐go-multiplatform-docker[GitHub Actions|multiplatform, release, DockerHub](https://github.com/LeslieLeung/go-multiplatform-docker)
 * ⭐gf[modular, powerful, high-performance and enterprise-class](https://github.com/gogf/gf)
+* 😊vhs[Your CLI home video recorder](https://github.com/charmbracelet/vhs)
+* 😊sttr[to perform various operations on string](https://github.com/abhimanyu003/sttr)
+* 😊gopeed[High speed downloader](https://github.com/monkeyWie/gopeed)
 
 #### IM
 
@@ -159,6 +164,7 @@
 * ⭐uptime-kuma[A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
 * ⭐memos[self-hosted knowledge base that works with a SQLite db file](https://github.com/usememos/memos)
 * ⭐hoppscotch[Open source API development ecosystem](https://github.com/hoppscotch/hoppscotch)
+* 😊marp[The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
 
 #### Basic UI Lib
 
@@ -224,6 +230,7 @@
 #### PHP
 
 * ⭐onenav[使用PHP开发的简约导航/书签管理系统](https://github.com/helloxz/onenav)
+* ⭐DirectoryLister[the easiest way to expose the folders and files](https://github.com/DirectoryLister/DirectoryLister)
 
 #### CSharp
 
@@ -250,6 +257,7 @@
 * 😊Amethyst[Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)
 * ⭐MiaoYan[Lightweight Markdown app](https://github.com/tw93/MiaoYan)
 * 😊SourceCodeSyntaxHighlight[Quick Look extension for highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+* ⭐DevToysMac[DevToys For mac](https://github.com/ObuchiYuki/DevToysMac)
 
 ### Windows
 
@@ -288,6 +296,7 @@
 * 🥶|😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
 * 👍|😊gsudo[A Sudo for Windows](https://github.com/gerardog/gsudo)
 * ⭐TrafficMonitor[显示当前网速、CPU及内存利用率的桌面悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor)
+* 😊Windows11_Hardening[A collection about Windows 11 security](https://github.com/beerisgood/Windows11_Hardening)
 
 ### Linux
 
