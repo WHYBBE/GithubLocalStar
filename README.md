@@ -1,5 +1,9 @@
 # Github Local Star
 
+> 在没有Github的Star分类之前作为自己的简单收藏分类（2021-10-23），尽管没多久之后Github官方就出了Star分类功能（约2021-12-10），但还是保留这个仓库和相应的习惯
+>
+> 原本还想制作相应的界面工具用于整理各种各样的仓库，同时能生成对应网页用于简单查看相应仓库信息，但是由于拖延以及种种原因没有实施，一直到今天（2023-01-22，过去大概一年多三个月）都没有写一行代码，希望有空能早点完成
+
 收藏❤️/使用😊/学习⭐
 
 * 🥶过时（六个月以上不更新）
@@ -44,6 +48,8 @@
 * 😊Criterion[A cross-platform C and C++ unit testing framework](https://github.com/Snaipe/Criterion)
 * ⭐masscan[TCP port scanner, spews SYN packets asynchronously](https://github.com/robertdavidgraham/masscan)
 * ⭐btop[A monitor of resources](https://github.com/aristocratos/btop)
+* ⭐osquery[SQL powered operating system instrumentation...](https://github.com/osquery/osquery)
+* ⭐Clipboard[Cut, copy, and paste anything, anywhere, all from the terminal](https://github.com/Slackadays/Clipboard)
 
 #### C/C++ GUI Software
 
@@ -89,37 +95,42 @@
 
 ### Golang
 
-* ⭐go-fly[open source live customer chat by golang](https://github.com/taoshihan1991/go-fly)
 * ⭐godis[A Golang implemented Redis Server and Cluster](https://github.com/HDT3213/godis)
-* ⭐pretty[Pretty printing for Go values](https://github.com/kr/pretty)
-* ⭐croc[send things from one computer to another](https://github.com/schollz/croc)
-* 😊httpstat[It's like curl -v, with colours.](https://github.com/davecheney/httpstat)
-* ⭐dns[DNS library in Go](https://github.com/miekg/dns)
-* ⭐pholcus[a distributed high-concurrency crawler software](https://github.com/henrylee2cn/pholcus)
+* 😊dns[DNS library in Go](https://github.com/miekg/dns)
+* 🥶|⭐pholcus[a distributed high-concurrency crawler software](https://github.com/henrylee2cn/pholcus)
 * 😊caddy[Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
-* 😊dsq[Commandline tool for running SQL queries against JSON...](https://github.com/multiprocessio/dsq)
-* 😊octosql[a query tool process data by using SQL.](https://github.com/cube2222/octosql)
-* ⭐gotop[A terminal based graphical activity monitor inspired by gtop and vtop](https://github.com/xxxserxxx/gotop)
-* ⭐paopao-ce[A artistic "twitter like" community built on gin+zinc+vue+ts](https://github.com/rocboss/paopao-ce)
 * ⭐iam[企业级的 Go 语言实战项目：认证和授权系统](https://github.com/marmotedu/iam)
 * ⭐dolt[It's Git for Data](https://github.com/dolthub/dolt)
-* ⭐[Vector database for scalable similarity search and AI applications](https://github.com/milvus-io/milvus)
-* 😊mkcert[to make locally trusted development certificates](https://github.com/FiloSottile/mkcert)
+* 😊milvus[Vector database for scalable similarity search and AI applications](https://github.com/milvus-io/milvus)
 * ⭐wild-workouts-go-ddd-example[Go DDD example application|CQRS](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
-* 😊gitleaks[Protect and discover secrets using Gitleaks](https://github.com/zricethezav/gitleaks)
 * ⭐go-multiplatform-docker[GitHub Actions|multiplatform, release, DockerHub](https://github.com/LeslieLeung/go-multiplatform-docker)
-* ⭐gf[modular, powerful, high-performance and enterprise-class](https://github.com/gogf/gf)
-* 😊vhs[Your CLI home video recorder](https://github.com/charmbracelet/vhs)
-* 😊sttr[to perform various operations on string](https://github.com/abhimanyu003/sttr)
-* 😊gopeed[High speed downloader](https://github.com/monkeyWie/gopeed)
+* ⭐gf[enterprise-class application development framework](https://github.com/gogf/gf)
 
-#### IM
+#### IM-like
 
+* ⭐go-fly[open source live customer chat by golang](https://github.com/taoshihan1991/go-fly)
+* ⭐paopao-ce[A artistic "twitter like" community built on gin+zinc+vue+ts](https://github.com/rocboss/paopao-ce)
 * ⭐Open-IM-Server[由前微信技术专家打造的基于 Go 实现的即时通讯](https://github.com/OpenIMSDK/Open-IM-Server)
 * ⭐chat[Instant messaging platform](https://github.com/tinode/chat)
 * ⭐gochat[goim server write by golang](https://github.com/LockGit/gochat)
+* ⭐gopeed[High speed downloader](https://github.com/monkeyWie/gopeed)
 
 #### CLI
+
+* 😊croc[send things from one computer to another](https://github.com/schollz/croc)
+* 😊httpstat[It's like curl -v, with colours.](https://github.com/davecheney/httpstat)
+* 😊dsq[Commandline tool for running SQL queries against JSON...](https://github.com/multiprocessio/dsq)
+* 😊pretty[Pretty printing for Go values](https://github.com/kr/pretty)
+* 😊octosql[a query tool process data by using SQL.](https://github.com/cube2222/octosql)
+* 😊gotop[A terminal based graphical activity monitor inspired by gtop and vtop](https://github.com/xxxserxxx/gotop)
+* 🥶|😊mkcert[to make locally trusted development certificates](https://github.com/FiloSottile/mkcert)
+* 😊gitleaks[Protect and discover secrets using Gitleaks](https://github.com/zricethezav/gitleaks)
+* 😊vhs[Your CLI home video recorder](https://github.com/charmbracelet/vhs)
+* 😊sttr[to perform various operations on string](https://github.com/abhimanyu003/sttr)
+* 😊osv-scanner[Vulnerability scanner written in Go](https://github.com/google/osv-scanner)
+* 😊sampler[Tool for shell commands execution, visualization and alerting](https://github.com/sqshq/sampler)
+
+#### CLI Maker
 
 * 😊bubbletea[A powerful little TUI framework](https://github.com/charmbracelet/bubbletea)
 * 😊gookit[Terminal color rendering library](https://github.com/gookit/color)
@@ -165,6 +176,8 @@
 * ⭐memos[self-hosted knowledge base that works with a SQLite db file](https://github.com/usememos/memos)
 * ⭐hoppscotch[Open source API development ecosystem](https://github.com/hoppscotch/hoppscotch)
 * 😊marp[The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
+* 😊terminalizer[Record your terminal and generate animated gif images](https://github.com/faressoft/terminalizer)
+* ⭐SwitchHosts[Switch hosts quickly!](https://github.com/oldj/SwitchHosts)
 
 #### Basic UI Lib
 
@@ -177,7 +190,7 @@
 * ⭐css-doodle[🎨 A web component for drawing patterns with CSS.](https://github.com/css-doodle/css-doodle)
 * ⭐layui[采用自身模块规范编写的前端 UI 框架](https://github.com/sentsin/layui)
 * ⭐glide[JavaScript ES6 slider and carousel.](https://github.com/glidejs/glide)
-* 😊Chart.js[Simple HTML5 Charts using the <canvas> tag](https://github.com/chartjs/Chart.js)
+* 😊Chart.js[Simple HTML5 Charts using the canvas tag](https://github.com/chartjs/Chart.js)
 * 😊bytemd[Hackable Markdown editor and viewer](https://github.com/bytedance/bytemd)
 * 😊mind-elixir-core[a framework agnostic mind map core](https://github.com/ssshooter/mind-elixir-core)
 * 😊storybook[The UI component explorer](https://github.com/storybookjs/storybook/)
@@ -216,6 +229,8 @@
 * 😊memory_profiler[Monitor Memory usage of Python code](https://github.com/pythonprofilers/memory_profiler)
 * 😊textual[Textual is a TUI framework for Python](https://github.com/Textualize/textual)
 * 😊code2flow[Pretty good call graphs for dynamic languages](https://github.com/scottrogowski/code2flow)
+* 😊CustomTkinter[A modern and customizable python UI-library based on Tkinter](https://github.com/TomSchimansky/CustomTkinter)
+* 😊FileCodeBox[文件快递柜-匿名口令分享文本、文件](https://github.com/vastsa/FileCodeBox)
 
 ### Other Language
 
@@ -226,6 +241,7 @@
 * ⭐oshi[Native Operating System and Hardware Information](https://github.com/oshi/oshi)
 * ⭐MooInfo[Visual implementation of OSHI](https://github.com/rememberber/MooInfo)
 * ⭐blog[基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
+* 😊sndcpy[Android audio forwarding (scrcpy, but for audio)](https://github.com/rom1v/sndcpy)
 
 #### PHP
 
@@ -274,7 +290,7 @@
 * 😊HandyControl[Contains some simple and commonly used WPF controls](https://github.com/HandyOrg/HandyControl)
 * 😊MaterialDesignInXamlToolkit[Google's Material Design in XAML & WPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * 😊ModernWpf[Modern styles and controls for your WPF applications](https://github.com/Kinnara/ModernWpf)
-* 🥶|⭐Work-Timer[正向计时器，商店链接](https://github.com/Richasy/Work-Timer)
+* 🥶|⭐Work-Timer[正向计时器](https://github.com/Richasy/Work-Timer)
 * 😊AduSkin[A Beautiful WPF Control UI](https://github.com/aduskin/AduSkin)
 * 😊LiveCharts2[Simple, flexible, interactive & powerful charts](https://github.com/beto-rodriguez/LiveCharts2)
 * 🥶|👻|⭐ToastFish[Uahh/ToastFish](https://github.com/Uahh/ToastFish)
@@ -289,6 +305,7 @@
 * ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
 * 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
 * 🥶|👻|⭐hutdownTimerClassic[shutdown computer](https://github.com/lukaslangrock/ShutdownTimerClassic)
+* ⭐CefDetector[Check how many CEFs are on your computer](https://github.com/ShirasawaSama/CefDetector)
 
 #### Else
 
