@@ -92,6 +92,7 @@
 * ⭐coreutils[=Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * ⭐arpchat[what if you wanted to text your friends using only ARP?](https://github.com/kognise/arpchat)
 * 😊just[Just a command runner](https://github.com/casey/just)
+* 😊carbonyl[Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 
 ### Golang
 
@@ -214,7 +215,7 @@
 * 😊cheat.sh[the only cheat sheet you need](https://github.com/chubin/cheat.sh)
 * 😊Ciphey[decrypt encryptions, decode encodings, crack hashes](https://github.com/Ciphey/Ciphey)
 * ⭐Python[All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-* bokeh[Interactive Data Visualization in the browser, from Python](https://github.com/bokeh/bokeh)
+* 😊bokeh[Interactive Data Visualization in the browser, from Python](https://github.com/bokeh/bokeh)
 * 😊you-get[Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * 😊yaspin[terminal spinner for Python](https://github.com/pavdmyt/yaspin)
 * ⭐wjcat-release[问卷喵——vue和django开发的问卷调查网站](https://github.com/shanghaobo/wjcat-release)
@@ -253,6 +254,7 @@
 * 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
 * 😊awesome-dotnet-core[NET Core库、工具、框架和软件的中文收录大全](https://github.com/jasonhua95/awesome-dotnet-core)
 * 😊Avalonia[A cross-platform UI framework for .NET](https://github.com/AvaloniaUI/Avalonia)
+* 🥶|⭐SeeSharpSnake[Self-contained C# game in 8 kB](https://github.com/MichalStrehovsky/SeeSharpSnake)
 
 ---
 
@@ -264,6 +266,8 @@
 * 😊getwidget[UI library with 1000+ Widgets to build flutter app](https://github.com/ionicfirebaseapp/getwidget)
 * 😊PermissionX[makes handling runtime permissions extremely easy.](https://github.com/guolindev/PermissionX)
 * ⭐graphic[A grammar of data visualization and Flutter charting library](https://github.com/entronad/graphic)
+* 😊termux-app[a terminal emulator application for Android](https://github.com/termux/termux-app)
+* 😊ish[Linux shell for iOS](https://github.com/ish-app/ish)
 
 ### macOS
 
