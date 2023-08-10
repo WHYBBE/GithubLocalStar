@@ -10,6 +10,8 @@
 * 👻简单
 * 👍特别喜爱
 
+> 从文档中排除C#、WPF、Winform相关的技术，单列出去
+
 ### C / C++
 
 * 😊cpufetch[Simple yet fancy CPU architecture fetching tool](https://github.com/Dr-Noob/cpufetch)
@@ -249,13 +251,6 @@
 * ⭐onenav[使用PHP开发的简约导航/书签管理系统](https://github.com/helloxz/onenav)
 * ⭐DirectoryLister[the easiest way to expose the folders and files](https://github.com/DirectoryLister/DirectoryLister)
 
-#### CSharp
-
-* 😊Masuit.Tools-工具[包含一些常用的操作类，大都是静态类](https://github.com/ldqk/Masuit.Tools)
-* 😊awesome-dotnet-core[NET Core库、工具、框架和软件的中文收录大全](https://github.com/jasonhua95/awesome-dotnet-core)
-* 😊Avalonia[A cross-platform UI framework for .NET](https://github.com/AvaloniaUI/Avalonia)
-* 🥶|⭐SeeSharpSnake[Self-contained C# game in 8 kB](https://github.com/MichalStrehovsky/SeeSharpSnake)
-
 ---
 
 ### IOS & Android
@@ -280,38 +275,6 @@
 * ⭐DevToysMac[DevToys For mac](https://github.com/ObuchiYuki/DevToysMac)
 
 ### Windows
-
-#### XAML
-
-* ⭐LightDictionary[UWP Application](https://github.com/cyanray/LightDictionary)
-* ⭐panuonUI.Silver[A beautiful wpf ui library](https://github.com/Mochengvia/PanuonUI.Silver)
-* ⭐Notepads[text editor with a minimalist design.](https://github.com/JasonStein/Notepads)
-* ⭐Easy-Cat-Timer[This is a very simple cat timer](https://github.com/xujiangjiang/Easy-Cat-Timer)
-* 😊NETworkManager[tool for managing networks](https://github.com/BornToBeRoot/NETworkManager)
-* ⭐microsoft-ui-xaml[Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml)
-* 🥶|⭐Windows-universal-samples[samples for the UWP](https://github.com/microsoft/Windows-universal-samples)
-* 😊FlowChar[conversion from pseudo-code to flowchart in character format](https://github.com/Gusabary/FlowChar)
-* 😊HandyControl[Contains some simple and commonly used WPF controls](https://github.com/HandyOrg/HandyControl)
-* 😊MaterialDesignInXamlToolkit[Google's Material Design in XAML & WPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
-* 😊ModernWpf[Modern styles and controls for your WPF applications](https://github.com/Kinnara/ModernWpf)
-* 🥶|⭐Work-Timer[正向计时器](https://github.com/Richasy/Work-Timer)
-* 😊AduSkin[A Beautiful WPF Control UI](https://github.com/aduskin/AduSkin)
-* 😊LiveCharts2[Simple, flexible, interactive & powerful charts](https://github.com/beto-rodriguez/LiveCharts2)
-* 🥶|👻|⭐ToastFish[Uahh/ToastFish](https://github.com/Uahh/ToastFish)
-* 🥶|👻|⭐ClickShow[鼠标点击特效](https://github.com/cuiliang/ClickShow)
-* ⭐DevToys[A Swiss Army knife for developers.](https://github.com/veler/DevToys)
-
-#### Winform
-
-* 🥶|😊dishes[taskbar launch tool](https://github.com/Monoxide/dishes)
-* ⭐PasteEx[Paste As File 把剪贴板的内容直接粘贴为文件](https://github.com/huiyadanli/PasteEx)
-* 👍|⭐FlipIt[Flip Clock screensaver](https://github.com/phaselden/FlipIt)
-* ⭐ShareX[capture or record any area of your screen](https://github.com/ShareX/ShareX)
-* 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
-* 🥶|👻|⭐hutdownTimerClassic[shutdown computer](https://github.com/lukaslangrock/ShutdownTimerClassic)
-* ⭐CefDetector[Check how many CEFs are on your computer](https://github.com/ShirasawaSama/CefDetector)
-
-#### Else
 
 * 😊MicrosoftHostsPicker[A simple hosts picker for Microsoft Services](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 * 🥶|😊UsbCopyer[windows插上U盘后自动复制该U盘文件的简单实现](https://github.com/tiantianwahaha/UsbCopyer)
