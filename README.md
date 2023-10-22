@@ -56,12 +56,14 @@
 #### C/C++ GUI Software
 
 * ⭐LANDrop[File Transfer](https://github.com/LANDrop)
+* 😊winmerge[an Open Source differencing and merging tool](https://github.com/WinMerge/winmerge)
 * 😊NanaZip[The 7-Zip derivative](https://github.com/M2Team/NanaZip)
 * ⭐chromium[Chromium](https://github.com/chromium/chromium)
 * ⭐caesium-image-compressor[cross-platform image compression software](https://github.com/Lymphatus/caesium-image-compressor)
 * ❤️DungeonRush[A opensource game inspired by Snake](https://github.com/rapiz1/DungeonRush)
 * ⭐B23Downloader[下载B站视频、直播、漫画](https://github.com/vooidzero/B23Downloader)
 * ⭐flameshot[Powerful yet simple to use screenshot software](https://github.com/flameshot-org/flameshot)
+* ⭐FileCentipede[Cross-platform internet upload/download manager](https://github.com/filecxx/FileCentipede)
 
 #### Network & Server
 
@@ -132,6 +134,7 @@
 * 😊sttr[to perform various operations on string](https://github.com/abhimanyu003/sttr)
 * 😊osv-scanner[Vulnerability scanner written in Go](https://github.com/google/osv-scanner)
 * 😊sampler[Tool for shell commands execution, visualization and alerting](https://github.com/sqshq/sampler)
+* 😊go-prett[Table-writer and more in golang](https://github.com/jedib0t/go-pretty)
 
 #### CLI Maker
 
@@ -181,6 +184,7 @@
 * 😊marp[The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
 * 😊terminalizer[Record your terminal and generate animated gif images](https://github.com/faressoft/terminalizer)
 * ⭐SwitchHosts[Switch hosts quickly!](https://github.com/oldj/SwitchHosts)
+* 😊patch-package[Fix broken node modules instantly](https://github.com/ds300/patch-package)
 
 #### Basic UI Lib
 
@@ -197,6 +201,7 @@
 * 😊bytemd[Hackable Markdown editor and viewer](https://github.com/bytedance/bytemd)
 * 😊mind-elixir-core[a framework agnostic mind map core](https://github.com/ssshooter/mind-elixir-core)
 * 😊storybook[The UI component explorer](https://github.com/storybookjs/storybook/)
+* 😊driver.js[to drive the user's focus across the page](https://github.com/kamranahmedse/driver.js)
 
 #### Generator
 
@@ -234,6 +239,7 @@
 * 😊code2flow[Pretty good call graphs for dynamic languages](https://github.com/scottrogowski/code2flow)
 * 😊CustomTkinter[A modern and customizable python UI-library based on Tkinter](https://github.com/TomSchimansky/CustomTkinter)
 * 😊FileCodeBox[文件快递柜-匿名口令分享文本、文件](https://github.com/vastsa/FileCodeBox)
+* gruns/icecream[Never use `print()` to debug again.](https://github.com/gruns/icecream)
 
 ### Other Language
 
@@ -250,6 +256,10 @@
 
 * ⭐onenav[使用PHP开发的简约导航/书签管理系统](https://github.com/helloxz/onenav)
 * ⭐DirectoryLister[the easiest way to expose the folders and files](https://github.com/DirectoryLister/DirectoryLister)
+
+#### Ruby
+
+* 😊YouPlot[A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
 
 ---
 
